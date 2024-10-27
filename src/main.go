@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	romanToInt("MCMXCIV")
+	longestCommonPrefix([]string{"flower", "flow", "flight"})
 }
