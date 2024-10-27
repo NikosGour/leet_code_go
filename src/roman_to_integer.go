@@ -1,4 +1,4 @@
-package main
+package src
 
 func romanToInt(s string) (res int) {
 	for i, c := range s {
