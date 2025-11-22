@@ -1,4 +1,4 @@
-package src
+package pkg
 
 type Stack[T any] struct {
 	stack []T

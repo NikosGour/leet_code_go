@@ -1,6 +1,6 @@
 package main
 
-import solution "github.com/NikosGour/leet_code/src"
+import solution "github.com/NikosGour/leet_code/pkg"
 
 func main() {
 	solution.Main()

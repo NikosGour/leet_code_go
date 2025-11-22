@@ -1,4 +1,4 @@
-package src
+package pkg
 
 type ListNode struct {
 	Val  int

@@ -1,4 +1,4 @@
-package src
+package pkg
 
 type Set[T comparable] struct {
 	_map map[T]bool
